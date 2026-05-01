@@ -1,0 +1,6 @@
+{
+  "name": "Discord Code Architect",
+  "description": "Multi-agent code generator for Discord bots with ZIP export and search-grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
